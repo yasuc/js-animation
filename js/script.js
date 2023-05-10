@@ -14,3 +14,4 @@ const options = {
 };
 
 heading.animate(keyframes, options);
+test.animate(keyframes, options);
